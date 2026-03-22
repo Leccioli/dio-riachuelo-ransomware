@@ -1,0 +1,1 @@
+Arquivo que será criptografado contendo informações do roteiro da viagem do usuário, com informações sensíveis de todo o planejamento da viagem.
