@@ -1,0 +1,1 @@
+Esse é um arquivo que contém um texto que será criptografado, hipoteticamente contendo informações importantes sobre o casamento do usuário.
